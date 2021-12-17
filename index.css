@@ -1,0 +1,26 @@
+* {
+    font-family: oblique bold 120% cursive;
+    
+}
+
+body {
+    background-color:#225560;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:black;
+}
+
+#container {
+    background-color:#EDF060;
+    padding: 20px;
+    display: flex;
+}
+#container > .block{
+    padding: 20px;
+}
+
+.block{
+    color:#171219;
+}
