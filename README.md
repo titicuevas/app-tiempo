@@ -20,4 +20,4 @@ git clone https://github.com/titicuevas/app-tiempo
 ```
 # Ver en web
 
-<a href="https://titicuevas.github.io/app-tiempo/"></a>
+https://titicuevas.github.io/app-tiempo/
